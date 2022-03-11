@@ -13,7 +13,7 @@
     "category": "Contributed",
     "url": "https://github.com/PugPlayz/PJEP/releases/download/Publish/PJEP.zip",
     "archiveFileName": "PJEP.zip",
-    "checksum": "SHA256:a835d6fc0e13e6a40997bd53d7f545a8958428e3b1e28bde2746e274e25bf5ba",
+    "checksum": "SHA-256:a835d6fc0e13e6a40997bd53d7f545a8958428e3b1e28bde2746e274e25bf5ba",
     "size": "94353",
     "boards": [
     {
