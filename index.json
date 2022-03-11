@@ -1,0 +1,40 @@
+{
+    "packages": [
+    {
+    "name": "PJEP",
+    "maintainer": "Preston Elrod",
+    "websiteURL": "https://github.com/PugPlayz/PJEP",
+    "email": "",
+    "platforms": [
+    {
+    "name": "PJEP2.2 Programmer",
+    "architecture": "avr",
+    "version": "1",
+    "category": "Contributed",
+    "url": "https://github.com/PugPlayz/PJEP/releases/download/Publish/PJEP.zip",
+    "archiveFileName": "PJEP.zip",
+    "checksum": "SHA256:a835d6fc0e13e6a40997bd53d7f545a8958428e3b1e28bde2746e274e25bf5ba",
+    "size": "94353",
+    "boards": [
+    {
+    "name": "PJEP2.2 ISP & UDPI Programmer"
+    }
+    ],
+    "toolsDependencies": [
+        {
+          "packager": "arduino",
+          "name": "avr-gcc",
+          "version": "4.8.1-arduino5"
+        },
+        {
+          "packager": "arduino",
+          "name": "avrdude",
+          "version": "6.0.1-arduino5"
+        }
+      ]
+    }
+    ],
+    "tools": []
+    }
+    ]
+    }
