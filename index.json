@@ -1,0 +1,40 @@
+{
+    "packages": [
+    {
+    "name": "PJEP",
+    "maintainer": "Preston Elrod",
+    "websiteURL": "N/A",
+    "email": "preston.elr@gmail.com",
+    "platforms": [
+    {
+    "name": "PJEP2.2 Programmer",
+    "architecture": "avr",
+    "version": "1",
+    "category": "Contributed",
+    "url": "",
+    "archiveFileName": "",
+    "checksum": "",
+    "size": "",
+    "boards": [
+    {
+    "name": "PJEP2.2 ISP & UDPI Programmer"
+    }
+    ],
+    "toolsDependencies": [
+        {
+          "packager": "arduino",
+          "name": "avr-gcc",
+          "version": "4.8.1-arduino5"
+        },
+        {
+          "packager": "arduino",
+          "name": "avrdude",
+          "version": "6.0.1-arduino5"
+        }
+      ]
+    }
+    ],
+    "tools": []
+    }
+    ]
+    }
